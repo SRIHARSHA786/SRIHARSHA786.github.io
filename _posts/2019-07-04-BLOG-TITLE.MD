@@ -1,7 +1,6 @@
 # TowardsGeneExpressionConvolutionsusingGeneInteractionGraphs
 
-'''Python
+""" Python
 import numpy as np
 import pandas as pd
-
-'''
+"""
